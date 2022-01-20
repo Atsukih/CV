@@ -1,0 +1,24 @@
+header{
+  background:
+}
+
+h1{
+  font-size: 100px;
+}
+
+footer{
+     display: block;
+     margin-right: auto;
+     text-align: center;
+     clear: both;
+}
+
+body{
+  font-family: Armata;
+  background: rgb(254,160,105);
+  background: linear-gradient(90deg, rgba(254,160,105,1) 0%, rgba(251,66,64,1) 50%, rgba(214,156,177,1) 100%);
+}
+
+.cat{
+  height: 10000px;
+}

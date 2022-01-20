@@ -1,0 +1,54 @@
+header{
+  background:
+}
+
+h1{
+  font-size: 100px;
+}
+
+footer{
+     display: block;
+     margin-right: auto;
+     text-align: center;
+     clear: both;
+}
+
+body{
+  font-family: Armata;
+  background: rgb(254,160,105);
+  background: linear-gradient(90deg, rgba(254,160,105,1) 0%, rgba(251,66,64,1) 50%, rgba(214,156,177,1) 100%);
+}
+
+.cat{
+  height: 150px;
+}
+
+.discord{
+  height: 50px;
+  margin-top: 0px;
+}
+
+.twitter{
+  height: 50px;
+  margin-top: 0px;
+}
+
+.gmail{
+  height: 50px;
+  margin-top: 0px;
+}
+
+.Liste{
+  margin-top: 200px;
+}
+
+.bouton{
+  font-size: 18px;
+  margin-top: 200px;
+}
+
+.msgdebienvenue{
+  font-size: 50px;
+  margin-left: 800px;
+  margin-top: -200px;
+}
